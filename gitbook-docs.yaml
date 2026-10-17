@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Citron Wiki
+  structure:
+    - type: space
+      key: citron-wiki
+      title: Citron Wiki
+      path: citron-wiki
+      default: true
+      content:
+        directory: ./pages
+        language: en
