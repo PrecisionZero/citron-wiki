@@ -1,15 +1,18 @@
 # Features
 
-Citron combines performance improvements with practical quality-of-life features while aiming to preserve Minecraft's vanilla character.
+Citron focuses on performance and small quality-of-life improvements, without adding unnecessary complexity.
 
-## Explore the feature groups
+## Explore
 
-- [Performance](performance.md) — what optimization mods generally target and how to test results.
-- [Quality of Life](quality-of-life.md) — small controls and usability improvements.
-- [Visual Features](visual-features.md) — shaders, resource packs, and visual adjustments.
-- [Citron Menu](main-menu.md) — how the custom menu works.
-- [Included Mods](mods.md) — a categorized reference to selected components.
+- [Performance](performance.md)
+- [Quality of Life](quality-of-life.md)
+- [Visual Features](visual-features.md)
+- [Citron Menu](main-menu.md)
+- [Included Mods](mods.md)
 
-## A note on feature availability
+Features can change between builds. Check the mod list included with your version for the exact contents.
 
-Features can change between development builds. Treat the installed version and its release notes as authoritative; do not assume every feature described for a development build exists in every release.
+## Related pages
+
+- [Settings](../configuration/index.md)
+- [Compatibility](../compatibility/index.md)
