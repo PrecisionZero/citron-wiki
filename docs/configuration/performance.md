@@ -1,24 +1,27 @@
 # Performance Settings
 
-There is no universal setting combination for every computer. Start with moderate values and adjust based on the bottleneck you observe.
+Start with the settings that have the biggest impact, then adjust to suit your computer.
 
-## Suggested tuning order
+## Recommended order
 
-1. Lower **render distance** if GPU or CPU load is high.
-2. Lower **simulation distance** if world ticking or entity processing is the bottleneck.
-3. Reduce shader quality or disable shaders to test GPU load.
-4. Reduce particles and expensive visual effects if frame times improve when they are disabled.
-5. Close unnecessary background applications when memory is constrained.
-6. Test with default resource packs and without extra mods.
+1. Lower **render distance** if FPS is low.
+2. Lower **simulation distance** if the world struggles to keep up.
+3. Turn off shaders to check whether they are the bottleneck.
+4. Reduce particles and other expensive visual effects.
+5. Close background apps if memory is tight.
+6. Test without extra mods or resource packs.
 
-## Memory allocation
+## RAM allocation
 
-Do not allocate all system memory to Minecraft. Leave enough for the operating system, launcher, background applications, and integrated graphics. Increasing allocation beyond what the game needs does not automatically improve performance.
+Avoid giving Minecraft all your system memory. Windows, the launcher, and other apps still need RAM. More allocation does not automatically mean better performance.
 
-## Measure, don't guess
+For Citron, 4 GB is the recommended starting point. Increase it only if you have a reason to believe the game needs more.
 
-Compare the same scene under the same conditions. A change that raises peak FPS but worsens frame-time spikes may not feel better. For a repeatable method, read [Performance Features](../features/performance.md).
+## Compare results
 
-## Startup time
+Test the same scene before and after each change. Look at smoothness as well as average FPS.
 
-First launches may take longer because the launcher downloads files and the game initializes caches. Compare repeated launches separately from first-run downloads, and do not delete caches as a routine optimization unless troubleshooting guidance requires it.
+## Related pages
+
+- [Performance Features](../features/performance.md)
+- [Performance Troubleshooting](../troubleshooting/performance.md)
