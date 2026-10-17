@@ -2,17 +2,20 @@
 
 | Term | Meaning |
 |---|---|
-| Fabric | A lightweight mod loader for Minecraft Java Edition. |
-| Mod loader | Software that loads mods into the game. |
-| Modpack | A curated collection of mods and configuration intended to work together. |
-| FPS | Frames per second; a measure of rendering throughput. |
-| Frame time | Time taken to produce a frame; consistency matters for smoothness. |
-| Render distance | Approximate number of chunks rendered around the player. |
-| Simulation distance | Distance over which game simulation, such as entities and block updates, is active. |
-| Integrated server | The server process running inside a single-player Minecraft session. |
-| Resource pack | A package that can replace or add assets such as textures, models, sounds, and fonts. |
-| Shader pack | A package that changes rendering effects through a supported shader system. |
-| QoL | Quality of life; usability improvements that reduce friction in gameplay. |
-| Dependency | A library or mod another component requires. |
-| Crash report | A diagnostic report generated after a game crash. |
-| Vanilla | Minecraft without gameplay-changing mods, or the default game's behavior and style. |
+| Fabric | A mod loader for Minecraft Java Edition. |
+| Modpack | A collection of mods configured to work together. |
+| FPS | Frames per second. |
+| Frame time | The time needed to render a frame; consistency affects smoothness. |
+| Render distance | How far away Minecraft renders chunks. |
+| Simulation distance | How far away game simulation runs. |
+| Resource pack | Changes textures, models, sounds, or other assets. |
+| Shader pack | Changes visual effects through a supported rendering system. |
+| QoL | Quality of life; features that make the game easier to use. |
+| Dependency | A mod or library another mod needs. |
+| Crash report | Diagnostic information produced after a crash. |
+| Vanilla | Minecraft's default behavior and style. |
+
+## Related pages
+
+- [FAQ](faq.md)
+- [Included Mods](features/mods.md)
