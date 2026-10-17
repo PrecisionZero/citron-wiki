@@ -1,63 +1,58 @@
 # Citron Wiki
 
-**Performance, comfort, and a vanilla-respecting Minecraft experience.**
-
-Citron is a Fabric modpack that combines performance improvements with carefully selected quality-of-life features. This wiki is the central guide to installing, configuring, understanding, and troubleshooting Citron.
+Citron combines performance improvements with practical quality-of-life features while keeping Minecraft's familiar feel.
 
 <div class="grid cards" markdown>
 
--   :material-download:{ .lg .middle } **Getting started**
+-   :material-download:{ .lg .middle } **Get started**
 
     ---
 
-    Install Citron and prepare your first launch.
+    Install the pack and set up your first launch.
 
-    [:octicons-arrow-right-24: Installation guide](getting-started/installation.md)
+    [Installation guide](getting-started/installation.md)
 
 -   :material-tune:{ .lg .middle } **Features and settings**
 
     ---
 
-    Learn what Citron changes and how to configure it.
+    See what's included and adjust the game.
 
-    [:octicons-arrow-right-24: Browse features](features/index.md)
+    [Browse features](features/index.md)
 
 -   :material-wrench:{ .lg .middle } **Troubleshooting**
 
     ---
 
-    Work through common launch, graphics, and performance issues.
+    Fix common launch, graphics, and performance problems.
 
-    [:octicons-arrow-right-24: Fix a problem](troubleshooting/index.md)
+    [Find a solution](troubleshooting/index.md)
 
 -   :material-comment-question:{ .lg .middle } **FAQ**
 
     ---
 
-    Find answers to common questions.
+    Quick answers about Citron.
 
-    [:octicons-arrow-right-24: Read the FAQ](faq.md)
+    [Read the FAQ](faq.md)
 
 </div>
 
-## Project status
+## About Citron
 
-| Item | Current information |
+Citron is a Fabric modpack built around performance, convenience, and a restrained set of QoL features. It aims to improve the everyday experience without changing Minecraft into a different game.
+
+## Current development
+
+| Item | Details |
 |---|---|
-| Minecraft version documented | 1.21.11 |
-| Mod loader | Fabric |
-| Development build recorded | `1.0.0-dev.8+mc1.21.11.fabric` |
-| Release status | In development |
+| Minecraft target | 1.21.11 |
+| Loader | Fabric |
+| Development build | `1.0.0-dev.8+mc1.21.11.fabric` |
+| Status | In development |
 
-Version details describe the development context used to prepare this wiki. Check the official project page for the latest supported build and release availability before installing.
-
-## What Citron aims to do
-
-- Improve performance without turning the pack into a collection of unrelated features.
-- Add useful controls and small quality-of-life improvements.
-- Preserve Minecraft's recognizable visual style and core gameplay.
-- Keep the pack understandable, maintainable, and easy to configure.
+Check the [Citron repository](https://github.com/PrecisionZero/citron) for current project details and release information.
 
 ## Need help?
 
-Start with [Installation](getting-started/installation.md) if you're new, or [Troubleshooting](troubleshooting/index.md) if something isn't working. When asking for help, include your Minecraft version, Citron build, launcher, and relevant log excerpt.
+Start with the [troubleshooting guides](troubleshooting/index.md). Include your Citron version and the relevant log when reporting a problem.
