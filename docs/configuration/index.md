@@ -1,19 +1,18 @@
-# Configuration
+# Settings
 
-Start with the in-game settings before editing configuration files directly. The location and available options vary by mod and pack version.
+Start with Minecraft's in-game options. You usually do not need to edit configuration files manually.
 
-## Common tasks
+## Common settings
 
-- [Controls and keybinds](controls.md)
-- [Performance settings](performance.md)
-- [Visual settings](visuals.md)
+- [Controls and Keybinds](controls.md)
+- [Performance](performance.md)
+- [Visuals](visuals.md)
 
-## Keep changes manageable
+## Before editing files
 
-1. Change one setting at a time.
-2. Test in the same world or scene.
-3. Note the original value before editing a file.
-4. Close Minecraft before editing configuration files on disk.
-5. If a setting causes problems, restore the original value or regenerate only the affected configuration file after making a backup.
+Close Minecraft and make a copy of the file first. Change one setting at a time so you can identify what caused a problem.
 
-Do not copy an entire configuration folder from a different Minecraft or Citron version unless the release instructions specifically recommend it.
+## Related pages
+
+- [Features](../features/index.md)
+- [Troubleshooting](../troubleshooting/index.md)
