@@ -1,38 +1,30 @@
-# Reporting an Issue
+# Report an Issue
 
-A useful report makes the problem reproducible and gives enough context to investigate it.
+Before opening an issue, check the [troubleshooting guides](../troubleshooting/index.md) and see whether the problem happens in a clean Citron instance.
 
-## Before submitting
+## Include these details
 
-- Check the relevant [troubleshooting guide](../troubleshooting/index.md).
-- Test without optional shaders, resource packs, or extra mods.
-- Search existing issues to avoid duplicate reports.
-- Confirm the issue occurs on the Citron build you report.
-
-## Copy-and-fill template
+Copy this template and fill in what you know:
 
 ```text
-Title:
-Citron build:
+Citron version:
 Minecraft version:
-Fabric Loader version:
 Launcher:
 Operating system:
-CPU and GPU:
-Memory allocated to Minecraft:
-Extra mods:
-Shaders/resource packs:
-Expected behavior:
-Actual behavior:
+Problem:
 Steps to reproduce:
-Does it happen in an unmodified Citron instance?:
+Extra mods, shaders, or resource packs:
 Relevant log or crash report:
 ```
 
-## Attach diagnostics
+## Before posting
 
-Attach the relevant log or crash report when possible. Remove credentials, authentication tokens, and other sensitive details before posting.
+- Describe what happened and what you expected.
+- Include a log or crash report when relevant.
+- Remove passwords, access tokens, and other private information.
+- Do not report problems caused only by extra mods as confirmed Citron bugs without testing the default pack.
 
-## Be specific
+## Related pages
 
-Instead of “the pack is broken,” describe the action that triggers the issue, whether it happens every time, and whether it also occurs in a clean instance.
+- [Troubleshooting](../troubleshooting/index.md)
+- [Finding Logs](../troubleshooting/logs.md)
