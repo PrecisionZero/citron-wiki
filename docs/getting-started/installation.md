@@ -1,30 +1,27 @@
 # Installation
 
-Citron is a Fabric-based modpack. The exact import process depends on the launcher and the distribution format provided by the current release.
+Install Citron through a launcher that supports modpacks.
 
-## General installation steps
+## Steps
 
-1. Open the official Citron project page and choose a release that explicitly supports your Minecraft version.
-2. Download the file provided for that release.
-3. In a launcher that supports importing modpacks, use its **Import**, **Add instance**, or equivalent option.
-4. Select the downloaded file. If the release provides a different installation method, follow its release-specific instructions.
-5. Let the launcher download the required game and mod files.
-6. Start the instance once and allow initial setup to finish.
+1. Open the official Citron project page and choose a version for the Minecraft version you use.
+2. Download the modpack file provided for that release.
+3. In your launcher, choose **Import** or **Add instance** and select the downloaded file.
+4. Wait for the launcher to finish downloading the files.
+5. Launch the new instance.
 
-## Verify the instance
+The exact labels differ by launcher. Follow the release instructions if they differ from these steps.
 
-Before troubleshooting, check that:
+## Download
 
-- The instance uses the Minecraft version stated by the release.
-- Fabric is selected as the mod loader.
-- The instance is not sharing a mods folder with an unrelated installation.
-- The launcher has finished downloading dependencies.
-- No extra mods have been added during the first test.
-
-## Download source
-
-This wiki does not embed a guessed download URL. Use the official project page linked from the [Citron repository](https://github.com/PrecisionZero/citron) and confirm the release details there.
+Use the official [Citron repository](https://github.com/PrecisionZero/citron) to find the project page and current release. Check the Minecraft version before installing.
 
 ## If installation fails
 
-See [Launch and Crashes](../troubleshooting/launch-crashes.md). Include the launcher's error message and the relevant log file when reporting the issue.
+Make sure the launcher supports the file format and has finished downloading all files.
+
+## Related pages
+
+- [First Launch](first-launch.md)
+- [Updating Citron](updating.md)
+- [Launch and Crash Troubleshooting](../troubleshooting/launch-crashes.md)
