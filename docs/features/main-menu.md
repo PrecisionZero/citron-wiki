@@ -1,23 +1,18 @@
 # Citron Menu
 
-Citron includes a custom main-menu interface designed to give the pack a consistent identity while retaining access to the game's settings and standard controls.
+Citron uses a custom menu to give the pack a consistent look without changing the core game.
 
-## Design goals
+## Custom menu and default menu
 
-- Keep the menu focused and visually consistent.
-- Preserve access to core options.
-- Keep mod-added buttons from cluttering the custom menu where possible.
-- Retain a path back to the default Minecraft menu when supported by the installed build.
+Some mod-added buttons may only appear on Minecraft's default title screen. This is intentional for integrations that are not part of the Citron layout. Switch to the default menu when you need those buttons, if the option is available in your build.
 
-## Custom menu versus default menu
+## If the menu looks wrong
 
-Some mod-provided buttons may appear on the default Minecraft title screen but not on the Citron menu. This can be intentional rather than a missing mod. Use the default-menu option if you need access to an integration that is not shown in the custom interface.
+1. Check that you are using the expected Citron build.
+2. Test without extra menu or interface mods.
+3. Take a screenshot and include the latest log if you report the issue.
 
-## If the menu is broken
+## Related pages
 
-1. Confirm the pack version and avoid mixing configuration files from unrelated builds.
-2. Test without extra menu or UI mods.
-3. If the default menu is accessible, use it to check whether the issue is limited to the custom layout.
-4. Report the issue with a screenshot and the latest log.
-
-Menu behavior can change during development, so describe the exact build when asking for help.
+- [Included Mods](mods.md)
+- [Graphics and UI Troubleshooting](../troubleshooting/graphics-ui.md)
