@@ -1,21 +1,22 @@
-# Graphics and UI Problems
+# Graphics and Menu Problems
 
-## Black screen or rendering artifacts
+## Black screen or visual glitches
 
-1. Disable shaders.
-2. Restore the default resource pack.
-3. Update graphics drivers from a trusted vendor or device manufacturer source.
-4. Test the unmodified pack.
-5. Record any graphics-related errors in the log.
+1. Turn off shaders.
+2. Switch to the default resource pack.
+3. Test the unmodified Citron instance.
+4. Check the log for rendering errors.
 
 ## Missing menu buttons
 
-Some mod-added buttons may intentionally appear only on the default title screen rather than the Citron menu. Use the default-menu option if available to determine whether the integration is present.
+Some mod buttons appear only on Minecraft's default title screen, not the Citron menu. Switch menus if the option is available.
 
-## Broken text, overlays, or HUD elements
+## Broken HUD or text
 
-Check for resource-pack overrides and extra UI mods. Disable additions one at a time and restart when necessary.
+Disable extra resource packs and UI mods one at a time. Restart the game after changing rendering-related options.
 
-## Shader incompatibility
+## Related pages
 
-A shader pack may not support the current Minecraft version or rendering setup. Test with shaders disabled before reporting a core Citron issue. Include the shader name and version in your report.
+- [Visual Settings](../configuration/visuals.md)
+- [Citron Menu](../features/main-menu.md)
+- [Reading Logs](logs.md)
