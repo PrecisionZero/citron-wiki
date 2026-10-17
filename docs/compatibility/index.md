@@ -1,27 +1,24 @@
 # Compatibility
 
-Compatibility depends on the exact Citron build, Minecraft version, Fabric Loader version, mod versions, and any extra mods or resource packs installed.
+Citron is tested as a set of mods for a specific Minecraft and Fabric version. Adding or updating mods can cause conflicts.
 
-## Supported baseline
+## Before adding a mod
 
-Use the Minecraft version and loader specified by the release you downloaded. The development configuration documented here has targeted Minecraft 1.21.11 with Fabric; check the current release notes before relying on that as the latest supported version.
-
-## Extra mods
-
-Citron is tested as a particular combination of mods. Adding or updating individual mods can introduce dependency mismatches, duplicate features, conflicting mixins, keybind conflicts, or rendering issues.
-
-For a clean test:
-
-1. Duplicate the instance or back it up.
-2. Test the unmodified pack.
-3. Add one extra mod.
-4. Launch and test the relevant feature.
-5. Keep a record of the mod version if the issue appears.
+1. Check that it supports your Minecraft and Fabric versions.
+2. Back up your instance.
+3. Add one mod at a time.
+4. Test the feature before adding anything else.
 
 ## Shaders and resource packs
 
-Visual additions can change performance or override assets. Test without them before reporting a core pack issue.
+Visual packs can affect performance or override the same assets. If something breaks, test without them first.
 
-## Report compatibility problems
+## Reporting a conflict
 
-Include the Citron build, Minecraft version, loader version, launcher, added mods, shader/resource-pack names, and the latest relevant log. See [Reporting an Issue](../support/issue-reporting.md).
+Include your Citron build, Minecraft version, launcher, extra mods, shaders, and the relevant log.
+
+## Related pages
+
+- [Included Mods](../features/mods.md)
+- [Visual Features](../features/visual-features.md)
+- [Report an Issue](../support/issue-reporting.md)
