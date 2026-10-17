@@ -1,20 +1,25 @@
 # First Launch
 
-Use this checklist to establish a clean baseline before changing settings.
+Use a suitable modpack loader for the best experience.
 
-- [ ] Confirm the Minecraft version matches the selected Citron build.
-- [ ] Confirm the correct Fabric instance is selected.
-- [ ] Start Citron without adding extra mods or resource packs.
-- [ ] Wait for the title screen and let any first-run setup finish.
-- [ ] Open a test world and confirm that movement, sound, and rendering work.
-- [ ] Exit normally and relaunch once to check that the instance starts consistently.
+Examples include:
+- The Modrinth App
+- The CurseForge App
 
 ## Set memory carefully
 
-Do not allocate all physical RAM to Minecraft. Leave memory for Windows, the launcher, background apps, and graphics drivers. More memory is not automatically faster; excessive allocation can increase garbage-collection pauses on some systems.
+Do not allocate too much  RAM to Minecraft. More memory is not automatically faster, excessive allocation may cause your system to lag and hang.
+
+### RAM requirements
+
+- **Minimum:** 2GB
+- **Recommended:** 4GB
+- **Maximum:** 6GB
+
+Nothing higher than 4GB of ram would cause a significant performance improvement for Citron.
 
 For suggested starting points and trade-offs, see [Performance Settings](../configuration/performance.md).
 
 ## Customize after the baseline
 
-Add shaders, resource packs, and extra mods one at a time. If an issue appears, remove the most recent change and retest. This makes conflicts easier to identify.
+Add shaders, resource packs, and extra mods as you wish. If an issue appears, remove the most recent change and retest. This makes conflicts easier to identify.
