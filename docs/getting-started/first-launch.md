@@ -2,7 +2,7 @@
 
 Use a suitable modpack loader for the best experience.
 
-Examples include:
+Examples include:  
 - The Modrinth App
 - The CurseForge App
 
