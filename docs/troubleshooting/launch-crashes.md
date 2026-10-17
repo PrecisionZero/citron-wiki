@@ -1,25 +1,25 @@
-# Launch Failures and Crashes
+# Launch and Crash Problems
 
-## The game closes before the title screen
+## The game won't open
 
-1. Confirm the selected Minecraft version and Fabric instance.
-2. Let the launcher finish downloading dependencies.
-3. Check whether the launcher reports a Java runtime error.
-4. Test the original Citron instance without extra mods.
-5. Open the latest log and crash report, if one exists.
+1. Check that the selected Minecraft version matches the Citron build.
+2. Let the launcher finish downloading files.
+3. Try launching the unmodified instance.
+4. Check the latest log or crash report.
 
-## A missing dependency is reported
+## Missing dependency
 
-Use the pack as distributed and avoid manually updating individual mods. A mod may require a specific library or version. Reinstalling or importing a clean copy of the correct release can restore missing files.
+Avoid updating individual mods by hand. A mod may need a specific version of another mod or library. If files are missing, try importing a clean copy of the same Citron release.
 
-## The game crashes after adding a mod
+## Crash after adding a mod
 
-Remove the newly added mod and test again. Check its supported Minecraft version, loader, required dependencies, and whether it duplicates an existing feature.
+Remove the last mod you added and try again. Check its Minecraft version, loader, and dependencies.
 
-## The game crashes in a world
+## Crash in a world
 
-Test a new temporary world. If only one world fails, back up that world before further testing. Do not repeatedly open a valuable world while changing Minecraft versions.
+Try a temporary new world. Back up important worlds before changing versions or removing mods.
 
-## What to include in a report
+## Related pages
 
-Share the latest crash report or relevant log excerpt, the exact build, launcher, Java version if known, and a short description of what happened immediately before the crash. See [Reading Logs](logs.md).
+- [Reading Logs](logs.md)
+- [Report an Issue](../support/issue-reporting.md)
