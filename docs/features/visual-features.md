@@ -1,22 +1,24 @@
 # Visual Features
 
-Citron aims to retain Minecraft's recognizable visual style while allowing selected visual enhancements.
+Citron keeps Minecraft's familiar look while allowing visual customisation.
 
 ## Resource packs
 
-Resource packs can change textures, models, sounds, fonts, and other assets. Add one at a time and confirm that it supports your Minecraft version.
+Resource packs can change textures, models, sounds, and fonts. Use packs made for your Minecraft version.
 
 ## Shaders
 
-Shader support depends on the graphics stack, shader loader, GPU, and selected shader pack. A shader can improve appearance while significantly increasing GPU load, memory use, or startup time.
+Shaders can improve lighting and atmosphere, but they may reduce FPS, especially on integrated graphics.
 
-If the game becomes unstable after enabling shaders:
+If you run into problems:
 
-1. Disable shaders from the shader selection screen, or temporarily remove the shader pack from the instance.
-2. Restart the game.
-3. Test without additional visual modifications.
-4. Re-enable features one at a time.
+1. Turn shaders off.
+2. Return to the default resource pack.
+3. Restart the game.
+4. Re-enable changes one at a time.
 
-## Compatibility
+## Related pages
 
-Resource packs and shaders may override the same visual elements or depend on particular rendering mods. See [Compatibility](../compatibility/index.md) and [Graphics and UI Troubleshooting](../troubleshooting/graphics-ui.md).
+- [Visual Settings](../configuration/visuals.md)
+- [Compatibility](../compatibility/index.md)
+- [Graphics and UI Troubleshooting](../troubleshooting/graphics-ui.md)
