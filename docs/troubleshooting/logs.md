@@ -1,22 +1,25 @@
-# Reading Logs
+# Finding Logs
 
-Logs help distinguish a real failure from a warning that can be harmless.
+Logs help identify what went wrong when the game fails to launch or crashes.
 
-## Where to look
+## Where to find them
 
-Most launchers provide an instance folder or a button such as **Open logs**, **Open game folder**, or **View crash report**. Common Minecraft files include:
+Open your launcher instance folder. Look for:
 
-- `logs/latest.log` — the most recent game session.
-- `crash-reports/` — crash reports created after a crash.
+- `logs/latest.log` — the latest game session.
+- `crash-reports/` — reports created after crashes.
 
-The exact path depends on the launcher and instance layout.
+Your launcher may provide an **Open folder** or **View logs** option.
 
-## What to search for
+## What to include
 
-Look near the end of the log and around the time the problem occurred. Useful terms include `ERROR`, `Exception`, `Caused by:`, `Mixin apply failed`, and `Could not`. A warning by itself does not prove that it caused the issue.
+Share the relevant log or full crash report, along with your Citron version and the steps that caused the issue. A single warning line is often not enough to identify the cause.
 
-## Share logs safely
+## Keep private details out
 
-Before posting logs publicly, review them for usernames, local file paths, server addresses, or other private information. Do not post authentication tokens or account credentials.
+Check logs before posting them publicly. Remove access tokens and any personal information you do not want to share.
 
-For an issue report, include the full relevant crash report where possible, not only a single error line. See [Reporting an Issue](../support/issue-reporting.md).
+## Related pages
+
+- [Launch and Crash Problems](launch-crashes.md)
+- [Report an Issue](../support/issue-reporting.md)
