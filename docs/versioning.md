@@ -1,6 +1,6 @@
 # Versioning
 
-Citron development builds use identifiers that distinguish the planned release version, development iteration, Minecraft version, and mod loader.
+Citron development builds use a version number followed by the development iteration and target Minecraft version.
 
 Example:
 
@@ -8,9 +8,14 @@ Example:
 
 | Part | Meaning |
 |---|---|
-| `1.0.0` | Intended base release version. |
-| `dev.8` | Eighth numbered development iteration in this sequence. |
-| `mc1.21.11` | Minecraft version targeted by that build. |
-| `fabric` | Mod loader identifier. |
+| `1.0.0` | Planned base release version. |
+| `dev.8` | Development iteration. |
+| `mc1.21.11` | Target Minecraft version. |
+| `fabric` | Mod loader. |
 
-Development builds can change and may contain unfinished features. Always use the release notes and exact download metadata to determine compatibility. A development identifier is not itself a promise that a public stable release is available.
+Development builds can change and may contain unfinished features. Check the release notes and download page for the version you intend to use.
+
+## Related pages
+
+- [Installation](getting-started/installation.md)
+- [Compatibility](compatibility/index.md)
