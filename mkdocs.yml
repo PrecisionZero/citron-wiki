@@ -1,15 +1,19 @@
 site_name: Citron Wiki
-site_description: Guides and reference for the Citron Minecraft modpack.
+site_description: Documentation for Citron.
 site_url: https://precisionzero.github.io/citron-wiki/
 repo_url: https://github.com/PrecisionZero/citron-wiki
 repo_name: PrecisionZero/citron-wiki
-edit_uri: edit/main/docs/
+edit_uri: edit/main/pages/
+docs_dir: pages
+site_dir: site
+exclude_docs: _templates/**
 theme:
   name: material
   language: en
   features:
     - navigation.sections
     - navigation.top
+    - navigation.tracking
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -28,11 +32,10 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 extra_css:
-  - assets/stylesheets/citron.css
+  - assets/citron.css
 markdown_extensions:
   - admonition
   - attr_list
-  - def_list
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
@@ -51,28 +54,21 @@ nav:
       - Installation: getting-started/installation.md
       - First Launch: getting-started/first-launch.md
       - Updating: getting-started/updating.md
-  - Features:
-      - Overview: features/index.md
-      - Performance: features/performance.md
-      - Quality of Life: features/quality-of-life.md
-      - Visual Features: features/visual-features.md
-      - Citron Menu: features/main-menu.md
-      - Included Mods: features/mods.md
-  - Settings:
-      - Overview: configuration/index.md
-      - Controls: configuration/controls.md
-      - Performance: configuration/performance.md
-      - Visuals: configuration/visuals.md
-  - Compatibility: compatibility/index.md
-  - Troubleshooting:
-      - Overview: troubleshooting/index.md
-      - Launch & Crashes: troubleshooting/launch-crashes.md
-      - Performance: troubleshooting/performance.md
-      - Graphics & UI: troubleshooting/graphics-ui.md
-      - Logs: troubleshooting/logs.md
-  - Reference:
-      - FAQ: faq.md
-      - Glossary: glossary.md
-      - Report an Issue: support/issue-reporting.md
-      - Versioning: versioning.md
-      - Edit the Wiki: contributing.md
+  - Citron Versions:
+      - All Versions: versions/index.md
+      - 1.0.0 (Development):
+          - Overview: versions/1.0.0/index.md
+          - 1.0.0-dev.8: versions/1.0.0/dev-8.md
+          - 1.0.0-dev.7: versions/1.0.0/dev-7.md
+          - 1.0.0-dev.6: versions/1.0.0/dev-6.md
+          - 1.0.0-dev.5: versions/1.0.0/dev-5.md
+          - 1.0.0-dev.4: versions/1.0.0/dev-4.md
+          - 1.0.0-dev.3: versions/1.0.0/dev-3.md
+          - 1.0.0-dev.2: versions/1.0.0/dev-2.md
+          - 1.0.0-dev.1: versions/1.0.0/dev-1.md
+  - Features: features/index.md
+  - Help:
+      - Overview: help/index.md
+      - FAQ: help/faq.md
+      - Troubleshooting: help/troubleshooting.md
+      - Report an Issue: help/report-issue.md

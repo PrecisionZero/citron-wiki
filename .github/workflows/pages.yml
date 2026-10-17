@@ -25,8 +25,12 @@ jobs:
           cache: pip
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: Make assets available to MkDocs
+        run: |
+          rm -rf pages/assets
+          cp -R assets pages/assets
       - name: Build documentation
-        run: mkdocs build --strict
+        run: python -m mkdocs build --strict
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
