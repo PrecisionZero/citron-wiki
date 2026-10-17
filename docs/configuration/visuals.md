@@ -1,19 +1,18 @@
 # Visual Settings
 
-Visual settings involve trade-offs between appearance, clarity, and performance.
+Visual settings are a trade-off between appearance and performance.
 
-## Recommended troubleshooting order
+## Troubleshooting order
 
-- Test with shaders disabled.
-- Return to the default resource pack.
-- Disable optional visual effects one at a time.
-- Confirm that shader and resource-pack versions support the installed Minecraft version.
-- Restart after changes that affect rendering initialization.
+1. Turn off shaders.
+2. Switch to the default resource pack.
+3. Disable other visual changes one at a time.
+4. Check that each pack supports your Minecraft version.
 
-## Shaders and integrated graphics
+Integrated graphics may struggle with demanding shaders. Start with a low preset and a modest render distance.
 
-Integrated GPUs share system memory and have limited graphics throughput compared with dedicated GPUs. Start with low shader presets and modest render distances. If performance is unstable, test without shaders first to separate shader cost from other issues.
+## Related pages
 
-## UI problems
-
-For missing buttons, broken overlays, or unexpected menu elements, see [Graphics and UI Troubleshooting](../troubleshooting/graphics-ui.md).
+- [Visual Features](../features/visual-features.md)
+- [Compatibility](../compatibility/index.md)
+- [Graphics and UI Troubleshooting](../troubleshooting/graphics-ui.md)
