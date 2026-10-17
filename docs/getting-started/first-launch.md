@@ -1,25 +1,29 @@
 # First Launch
 
-Use a suitable modpack loader for the best experience.
+Use a launcher made for modpacks for the easiest setup.
 
-Examples include:  
-- The Modrinth App
-- The CurseForge App
+**Recommended launchers**
+- [Modrinth App](https://modrinth.com/app)
+- [CurseForge App](https://www.curseforge.com/download/app)
 
-## Set memory carefully
+## RAM allocation
 
-Do not allocate too much  RAM to Minecraft. More memory is not automatically faster, excessive allocation may cause your system to lag and hang.
+Giving Minecraft more memory does not always improve performance. Too much can leave Windows and other applications short of memory.
 
-### RAM requirements
+| Allocation | Amount |
+|---|---:|
+| Minimum | 2 GB |
+| Recommended | 4 GB |
+| Maximum | 6 GB |
 
-- **Minimum:** 2GB
-- **Recommended:** 4GB
-- **Maximum:** 6GB
+For Citron, allocating more than 4 GB is unlikely to make a noticeable difference.
 
-Nothing higher than 4GB of ram would cause a significant performance improvement for Citron.
+## After launching
 
-For suggested starting points and trade-offs, see [Performance Settings](../configuration/performance.md).
+Once the game works, add shaders, resource packs, or extra mods as needed. Add them one at a time so it's easier to find the cause if something breaks.
 
-## Customize after the baseline
+## Related pages
 
-Add shaders, resource packs, and extra mods as you wish. If an issue appears, remove the most recent change and retest. This makes conflicts easier to identify.
+- [Performance Settings](../configuration/performance.md)
+- [Visual Settings](../configuration/visuals.md)
+- [Troubleshooting](../troubleshooting/index.md)
