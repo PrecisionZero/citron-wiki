@@ -1,27 +1,30 @@
 # Performance Problems
 
-## Low average FPS
+## Low FPS
 
-- Reduce render distance.
-- Test with shaders disabled.
-- Lower resource-pack resolution or visual settings.
-- Check whether the GPU or CPU is near full utilization.
-- Test without extra mods.
+- Lower render distance.
+- Turn off shaders to compare performance.
+- Reduce demanding visual settings.
+- Test without extra mods or resource packs.
 
 ## Stuttering
 
-Stutter may be caused by chunk generation, memory pressure, garbage collection, background processes, driver behavior, or a mod conflict. Average FPS alone may not show the problem.
+Stutters can come from chunk loading, memory pressure, background apps, drivers, or mod conflicts. Test the same scene and change one setting at a time.
 
-Test the same scene repeatedly and change one variable at a time. Note whether the stutter occurs during movement, chunk loading, combat, or at regular intervals.
+## Slow startup
 
-## Long startup
-
-Separate the first launch from subsequent launches. First-run downloads and setup can make the initial start unusually slow. Compare several later launches with the same instance and environment.
+The first launch can take longer while files and caches are prepared. Compare later launches separately from the first run.
 
 ## Integrated graphics
 
-Integrated graphics share system memory with the CPU. Avoid assigning nearly all RAM to Minecraft, and test without shaders before making other changes.
+Integrated GPUs share system memory. Avoid allocating nearly all RAM to Minecraft, and test without shaders first.
 
-## Still slow?
+## When asking for help
 
-Include hardware, operating system, Minecraft and Citron versions, render/simulation distance, shader status, memory allocation, and what workload triggers the slowdown.
+Include your hardware, Minecraft and Citron versions, render distance, RAM allocation, shader status, and when the slowdown happens.
+
+## Related pages
+
+- [Performance Settings](../configuration/performance.md)
+- [Reading Logs](logs.md)
+- [Report an Issue](../support/issue-reporting.md)
