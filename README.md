@@ -1,38 +1,32 @@
 # Citron Wiki
 
-Official player-facing documentation for **Citron**, a Fabric Minecraft modpack focused on performance, comfort, and carefully selected quality-of-life features.
+Documentation for **Citron**, a Fabric Minecraft modpack focused on performance and useful quality-of-life features.
 
-**Wiki:** https://precisionzero.github.io/citron-wiki/
+**Website:** https://precisionzero.github.io/citron-wiki/
 
-## Edit the wiki
+## Editing pages
 
-The site uses [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). Most changes only require editing Markdown files in `docs/`.
+Most content is in `docs/` as Markdown.
 
-- `docs/` — all documentation pages.
-- `mkdocs.yml` — navigation, theme, and site settings.
-- `docs/assets/stylesheets/citron.css` — custom styling.
-- `.github/workflows/pages.yml` — automated GitHub Pages build and deployment.
-- `requirements.txt` — documentation dependencies.
+- `docs/` — wiki pages
+- `mkdocs.yml` — navigation and site settings
+- `docs/assets/stylesheets/citron.css` — orange theme
+- `.github/workflows/pages.yml` — GitHub Pages deployment
+- `requirements.txt` — build dependencies
 
 ## Preview locally
-
-Install Python, then run:
 
 ```bash
 python -m pip install -r requirements.txt
 python -m mkdocs serve
 ```
 
-MkDocs prints a local preview address in the terminal.
-
-Check the site before pushing:
+To check the build:
 
 ```bash
 python -m mkdocs build --strict
 ```
 
-## Deployment
+Pushing to `main` triggers the deployment workflow. GitHub Pages should be configured to use **GitHub Actions**.
 
-Pushing changes to `main` triggers the GitHub Actions workflow. In the repository settings, GitHub Pages must use **GitHub Actions** as its build and deployment source.
-
-See [the contribution guide](docs/contributing.md) for writing conventions.
+See [Edit the Wiki](docs/contributing.md) for the page structure and writing style.
