@@ -1,16 +1,16 @@
 # Getting Started
 
-This section takes you from downloading Citron to a working first launch.
+New to Citron? Follow these pages in order.
 
-## Recommended order
+## Start here
 
-1. Read the [installation guide](installation.md).
-2. Complete the [first-launch checklist](first-launch.md).
-3. Review [updating](updating.md) before changing versions.
-4. If a problem occurs, use [troubleshooting](../troubleshooting/index.md).
+1. [Install Citron](installation.md)
+2. [Set up your first launch](first-launch.md)
+3. [Update Citron safely](updating.md)
 
-## Before installing
+Use a launcher that supports importing Fabric modpacks, such as the Modrinth App or CurseForge App.
 
-Confirm that you have the Minecraft version required by the Citron release, a launcher that supports Fabric modpacks, and enough free storage for the instance and its game files.
+## Related pages
 
-**Important:** Install only from the official Citron project listing or repository-linked release. Do not assume that an unofficial re-upload is current or trustworthy.
+- [Features](../features/index.md)
+- [Troubleshooting](../troubleshooting/index.md)
