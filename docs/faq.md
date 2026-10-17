@@ -1,33 +1,33 @@
-# Frequently Asked Questions
+# FAQ
 
 ## What is Citron?
 
-Citron is a Fabric Minecraft modpack focused on performance, comfort, and selected quality-of-life features while retaining a vanilla-respecting approach.
+Citron is a Fabric modpack focused on performance and useful quality-of-life features.
 
-## Does Citron guarantee more FPS?
+## Which Minecraft version do I need?
 
-No. Results depend on hardware, drivers, Minecraft version, world, settings, and the specific bottleneck.
+Use the version listed for the Citron build you download.
 
-## Which Minecraft version should I use?
+## Does Citron increase FPS?
 
-Use the version explicitly listed on the Citron release you download. Do not infer compatibility from the wiki's development notes alone.
+Results depend on your hardware, settings, and the world you're playing in. No fixed increase can be guaranteed.
 
-## Can I add more mods?
+## Can I add mods?
 
-You can experiment, but additional mods are outside the default test baseline and may conflict. Back up the instance and add one mod at a time.
+Yes, but extra mods can cause conflicts. Back up your instance and add mods one at a time.
 
 ## Can I use shaders?
 
-Shader support depends on the current pack build, rendering mods, GPU, and shader pack. If you have problems, test with shaders disabled first.
+Yes, if the shader and current rendering setup are compatible. Shaders can reduce performance, so test without them if needed.
 
-## Why do some mod buttons not appear in the Citron menu?
+## Why are some mod buttons missing from the Citron menu?
 
-The custom menu may intentionally hide third-party menu buttons. If available, switch to the default title screen to access them.
+Some integrations appear only on Minecraft's default title screen. Switch to the default menu if the option is available.
 
-## Where can I get Citron?
+## Where do I download Citron?
 
-Use the official project page linked from the [Citron repository](https://github.com/PrecisionZero/citron). This wiki does not provide an unverified download link.
+Start from the official [Citron repository](https://github.com/PrecisionZero/citron) and follow its project or release links.
 
 ## How do I report a problem?
 
-Follow [Reporting an Issue](support/issue-reporting.md) and include the exact build, launcher, steps to reproduce, and relevant logs.
+Use the [issue-reporting guide](support/issue-reporting.md) and include the relevant log.
