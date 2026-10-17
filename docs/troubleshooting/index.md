@@ -1,18 +1,20 @@
 # Troubleshooting
 
-Use the guide that best matches the symptom.
+Choose the guide that matches the problem.
 
-- [The game will not launch or crashes](launch-crashes.md)
-- [Low FPS, stutter, or slow loading](performance.md)
-- [Visual problems or a broken menu](graphics-ui.md)
-- [Finding and sharing logs](logs.md)
+- [Game won't launch or crashes](launch-crashes.md)
+- [Low FPS or stuttering](performance.md)
+- [Graphics or menu problems](graphics-ui.md)
+- [Finding logs](logs.md)
 
-## Before changing anything
+## Before you start
 
-1. Record the exact Citron build and Minecraft version.
-2. Note what changed immediately before the problem started.
-3. Reproduce the issue once with the default pack configuration.
-4. Avoid changing several settings at once.
-5. Back up worlds before changing versions or removing mods.
+1. Note your Citron and Minecraft versions.
+2. Think about what changed before the problem started.
+3. Test without extra mods, shaders, or resource packs.
+4. Change one thing at a time.
 
-If the issue occurs only after adding another mod, shader, or resource pack, reproduce it without that addition before reporting a Citron issue.
+## Related pages
+
+- [FAQ](../faq.md)
+- [Report an Issue](../support/issue-reporting.md)
