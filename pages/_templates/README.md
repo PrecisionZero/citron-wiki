@@ -1,9 +1,9 @@
-# About us
+# About Citron
 
 Citron is a Minecraft Performance, Quality, and Convenience modpack that is focused on delivering the best and most comfortable Minecraft experience possible, without turning it into another game.
 
-It's meant for players who want a more uplifting Minecraft experience, while remaining completely true to the Vanilla game.&#x20;
+It's meant for players who want a more uplifting Minecraft experience, while remaining completely true to the Vanilla game.
 
-I don't recommend players who want a very lightweight/performative to try Citron, I made Citron performative to its limit, but its not solely focused on improving performance. If you want a modpack that focuses only on performance, I suggest checking out [Adrenaline](https://modrinth.com/modpack/adrenaline).
+I wouldn't recommend Citron to players looking for an extremely lightweight or performance-only modpack. I've pushed performance as far as I can while still making room for useful features and a better overall experience. If you're looking for something focused purely on performance, I'd recommend checking out [Adrenaline](https://github.com/skywardmc/adrenaline).
 
-Everything we do is only client-side, all versions of the modpack could be used to its fullest on Minecraft servers. Consult [disclaimers.md](../index/disclaimers.md "mention") before you use the modpack, just to stay on the same side.
+Citron is designed to be entirely client-side, so you can use it while playing on Minecraft servers without needing the server to install Citron itself. However, individual servers may restrict certain mods or features, so check their rules before playing. See the [Disclaimers](../index/disclaimers.md) for more information.

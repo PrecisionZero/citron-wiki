@@ -3,18 +3,19 @@
 Use a launcher made for modpacks for the easiest setup.
 
 **Recommended launchers**
-- [Modrinth App](https://modrinth.com/app)
-- [CurseForge App](https://www.curseforge.com/download/app)
+
+* [Modrinth App](https://modrinth.com/app)
+* [CurseForge App](https://www.curseforge.com/download/app)
 
 ## RAM allocation
 
 Giving Minecraft more memory does not always improve performance. Too much can leave Windows and other applications short of memory.
 
-| Allocation | Amount |
-|---|---:|
-| Minimum | 2 GB |
-| Recommended | 4 GB |
-| Maximum | 6 GB |
+| Allocation  | Amount |
+| ----------- | -----: |
+| Minimum     |   2 GB |
+| Recommended |   4 GB |
+| Maximum     |   6 GB |
 
 For Citron, allocating more than 4 GB is unlikely to make a noticeable difference.
 
@@ -24,6 +25,6 @@ Once the game works, add shaders, resource packs, or extra mods as needed. Add t
 
 ## Related pages
 
-- [Installation](installation.md)
-- [Citron Versions](../versions/index.md)
-- [Troubleshooting](../help/troubleshooting.md)
+* [Installation](installation.md)
+* [Citron Versions](versions/index.md)
+* [Troubleshooting](help/troubleshooting.md)
