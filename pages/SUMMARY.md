@@ -2,6 +2,8 @@
 
 * [Citron Wiki](README.md)
   * [Disclaimers](index/disclaimers.md)
+* [About us](_templates/README.md)
+  * [Creator](_templates/creator.md)
 * [features](features/README.md)
   * [Features](features/index.md)
 * [getting-started](getting-started/README.md)
@@ -27,8 +29,3 @@
     * [1.0.0-dev.8](versions/1.0.0/dev-8.md)
     * [Citron 1.0.0](versions/1.0.0/index.md)
 * [License](license.md)
-* [About us](_templates/README.md)
-  * [Creator](_templates/creator.md)
-  * [Feature name](_templates/feature.md)
-  * [Major version](_templates/major-version.md)
-  * [Major.Subversion](_templates/version.md)
