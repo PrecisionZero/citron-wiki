@@ -6,6 +6,7 @@
   * [Creator](_templates/creator.md)
   * [My Philosophy](_templates/my-philosophy.md)
   * [Foundation](_templates/foundation.md)
+  * [Page 1](_templates/page-1.md)
 * [License](license.md)
 * [Testing stuff (not to be finalized)](getting-started/README.md)
   * [First Launch](getting-started/first-launch.md)
