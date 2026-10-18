@@ -32,3 +32,4 @@
       * [1.0.0-dev.7](getting-started/versions/1.0.0/dev-7.md)
       * [1.0.0-dev.8](getting-started/versions/1.0.0/dev-8.md)
       * [Citron 1.0.0](getting-started/versions/1.0.0/index.md)
+* [ChatGPT Attempt](chatgpt-attempt.md)

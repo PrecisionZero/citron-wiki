@@ -4,7 +4,7 @@ description: How to download Citron through CurseForge
 
 # CurseForge
 
-You can download Citron from Modrinth and are free to choose the method you want but both require the ModrinthApp.
+You can download Citron from CurseForge and are free to choose the method you want but both require the CurseForge App.
 
 {% tabs %}
 {% tab title="Using the app" %}
@@ -27,6 +27,6 @@ You can download Citron from Modrinth and are free to choose the method you want
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Citron's CurseForge page is currently being built and negotiated through, this is just a demo page.
 {% endhint %}
