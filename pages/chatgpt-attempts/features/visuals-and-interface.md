@@ -1,7 +1,13 @@
 # Visuals and Interface
 
-This section documents visual and interface changes included in Citron, including any changes to menus or presentation that affect how the pack feels to use.
+Citron aims to keep Minecraft familiar while making the interface more convenient to use.
 
-Citron uses a custom main menu. Some buttons added by Minecraft or other mods may not appear there; use the provided option to switch to Minecraft's default menu when needed.
+## Custom main menu
 
-For each visual feature, explain what changes, whether it can be configured, and how to access any relevant option. Keep screenshots tied to the Citron version they represent.
+Citron uses a custom main menu created with FancyMenu in the documented development build. Some buttons added by Minecraft or other mods may not appear on it. Use **Default Menu** to switch to Minecraft's default menu when you need a missing button; the default menu provides a way to return to Citron's menu.
+
+See [Changed Options and Menu](changed-options-and-menu.md) for the documented behaviour of the current development build.
+
+## Resource packs and shaders
+
+Visual customisation can depend on Minecraft version, rendering mods, and the pack itself. Follow Resource Packs and Shaders and check the feature list for your exact Citron build before assuming a particular shader loader or visual feature is included.

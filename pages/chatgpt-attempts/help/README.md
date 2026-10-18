@@ -1,9 +1,9 @@
 # Help
 
-If something goes wrong, start with the troubleshooting guide. If the issue continues, use the issue-reporting guide and include enough detail to reproduce the problem.
+Start with the guide that matches your problem. If the issue persists, report it with your Citron build ID and enough detail to reproduce it.
 
-* [FAQ](faq.md)
-* [Troubleshooting](troubleshooting.md)
-* [Report an Issue](report-an-issue.md)
+* [FAQ](faq.md) — common questions about Citron.
+* [Troubleshooting](troubleshooting.md) — fixes for launch, performance, and feature issues.
+* [Report an Issue](report-an-issue.md) — what to include when asking for help.
 
-For installation steps, see [Installation](../../installation/).
+For installation steps, use the existing [Installation guide](../../installation/).

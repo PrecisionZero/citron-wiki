@@ -1,6 +1,6 @@
 # Performance Expectations
 
-Citron aims to combine performance improvements with quality-of-life features. It is not intended to be a performance-only pack, and results vary by system and workload.
+Citron is designed to combine performance improvements with quality-of-life features. It is not intended to be the most minimal performance-only pack, and results vary by system and workload.
 
 Performance can be affected by CPU and GPU capability, available memory, render distance, world complexity, shaders, resource packs, background applications, and other installed mods.
 
@@ -11,4 +11,4 @@ Performance can be affected by CPU and GPU capability, available memory, render 
 * Repeat the test rather than relying on a single moment.
 * Note whether shaders or extra mods are enabled.
 
-Avoid comparing results from different worlds or settings and attributing the entire difference to Citron. For problems, use the [Troubleshooting](../help/troubleshooting.md) guide.
+Avoid comparing results from different worlds or settings and attributing the entire difference to Citron. If you report a performance issue, include your hardware, Citron build, settings, and the conditions under which you tested.

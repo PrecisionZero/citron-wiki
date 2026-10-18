@@ -1,13 +1,17 @@
 # Credits and Acknowledgements
 
-Citron would not be where it is without the projects and people whose work provides its foundation.
-
 ## Adrenaline
 
-Citron is built on Adrenaline's performance foundation and follows its development as a baseline for supported Minecraft versions and patches. Thank you to the Adrenaline team for the work that makes this possible.
+Citron is built on Adrenaline's performance foundation. Its work made it possible to start from an established performance-focused base rather than building every optimisation from scratch. Thank you to the Adrenaline team.
 
-## Mod developers
+* [Adrenaline on GitHub](https://github.com/skywardmc/adrenaline)
 
-The third-party mods included in Citron are created and maintained by their respective authors. Their names, project pages, and licences should be listed here once the mod list for the relevant release has been confirmed.
+## Third-party mods
 
-Because the included mods can change between builds, keep the credits aligned with the actual published mod list rather than treating a single list as permanent.
+Citron includes work created and maintained by independent mod developers. Each mod remains under its own licence and belongs to its respective authors.
+
+The [Included Mods](included-mods.md) page lists the projects recorded in Citron's development history. It is not a substitute for checking the exact files included in a particular release. Keep this page aligned with the published build when preparing a public release.
+
+## Citron
+
+Citron is developed and maintained by PrecisionZero. Its original branding, assets, and documentation are governed by the Citron Modpack License.

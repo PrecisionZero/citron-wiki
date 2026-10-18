@@ -1,10 +1,12 @@
 # Technical Guide
 
-Information about compatibility, settings, performance, and maintaining a Citron instance. Instructions may vary by Citron and Minecraft version, so check the version page when a detail is build-specific.
+Practical guidance for managing a Citron instance and understanding its behaviour. Instructions can vary by launcher, Minecraft version, and Citron build.
 
-* [Adding Extra Mods](adding-extra-mods.md)
-* [Compatibility and Servers](compatibility-and-servers.md)
-* [Configurations and Settings](configurations-and-settings.md)
-* [Performance Expectations](performance-expectations.md)
-* [Resource Packs and Shaders](resource-packs-and-shaders.md)
-* [Supported Versions](supported-versions.md)
+* Adding Extra Mods — add mods carefully and check dependencies.
+* [How to Disable or Remove Mods](how-to-disable-or-remove-mods/) — understand the risks before changing bundled content.
+* Configurations and Settings — manage settings and defaults.
+* [Changed Options and Menu](../features/changed-options-and-menu.md) — find buttons that are not shown in Citron's custom menu.
+* Resource Packs and Shaders — setup and troubleshoot visual additions.
+* [Improving Performance](improving-performance.md) — practical steps for diagnosing slow performance.
+* [Version Support](version-support.md) — choose the right Minecraft version.
+* [Compatibility and Servers](compatibility-and-servers.md) — understand client-side behaviour and server rules.
