@@ -90,3 +90,4 @@
     * [Accessibility](chatgpt-attempts/project-information/accessibility.md)
     * [Goals and Principles](chatgpt-attempts/project-information/goals-and-principles.md)
     * [Included Mods](chatgpt-attempts/project-information/included-mods.md)
+* [Claude Attempts](claude-attempts.md)
