@@ -41,3 +41,6 @@ Once Citron is available on CurseForge:
 ## Restoring your files
 
 Install Citron again, launch it once, and then copy your worlds and personal files into the new instance. Restore configuration files selectively—an old config may not work with a newer version of a mod.
+
+* [Updating Citron](updating-citron.md) — review the steps before changing versions.
+* [Installation](../../installation/) — install a fresh instance if you need to start over.

@@ -1,3 +1,7 @@
+---
+description: Reset a configuration carefully without removing unrelated settings.
+---
+
 # Resetting Settings
 
 If a setting causes problems or an update changes your configuration, reset the affected option instead of deleting every config file.
@@ -12,4 +16,4 @@ If a setting causes problems or an update changes your configuration, reset the 
 Deleting the entire `config` folder can reset unrelated mods and make the cause harder to find. Keep a backup and change only what you need.
 {% endhint %}
 
-Some defaults are selected for Citron's compatibility. If an update changed a setting intentionally, check the version notes before restoring the old value.
+Some defaults are selected for Citron's compatibility. If an update changed a setting intentionally, check the [Version History](../../versions-and-builds/version-history.md) before restoring the old value. For broader guidance, return to [Configurations and Settings](./).

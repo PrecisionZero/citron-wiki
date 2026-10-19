@@ -1,5 +1,5 @@
 ---
-description: Update Citron without losing your worlds or personal settings.
+description: Update Citron without losing track of your worlds or personal settings.
 ---
 
 # Updating Citron
@@ -36,3 +36,6 @@ Do not downgrade an instance that contains worlds saved in a newer Minecraft ver
 Open the game and check your controls, video settings, and any custom configurations you rely on. Modpack defaults can change between builds, so restore your preferences if something was reset.
 
 If the new build has a problem, try launching it without extra mods, shaders, or resource packs before troubleshooting further.
+
+* [Backups and Uninstall](backups-and-uninstall.md) — keep a copy of your worlds and personal files.
+* [Troubleshooting](../help/troubleshooting.md) — if the updated instance won't launch or behaves differently.

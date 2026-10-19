@@ -49,3 +49,9 @@ If Citron runs well with your launcher's default setting, you don't need to chan
 {% endhint %}
 
 Once the game works, add shaders, resource packs, or extra mods one at a time. If something breaks, it'll be easier to find the cause.
+
+## Related guides
+
+* [Troubleshooting](../help/troubleshooting.md) — if Citron won't launch or something isn't working.
+* [Updating Citron](updating-citron.md) — before moving to another build.
+* [Feature Index](../features-and-options/feature-index.md) — see what's included in the pack.

@@ -1,3 +1,7 @@
+---
+description: Install a resource pack and check common compatibility issues.
+---
+
 # Resource Packs
 
 Resource packs change textures, sounds, and other parts of Minecraft's presentation. Use packs that support your Minecraft version.
@@ -24,4 +28,6 @@ Place the downloaded resource-pack file in the folder, return to Minecraft, and 
 
 ## If something looks wrong
 
-Disable other resource packs and test the new one by itself. Check whether it depends on OptiFine-specific features or another rendering mod that your Citron build does not include. If the problem started after an update, check the version notes and test with a clean pack list.
+Disable other resource packs and test the new one by itself. Check whether it depends on OptiFine-specific features or another rendering mod that your Citron build does not include.
+
+For packs that won't load or display correctly, see [Resource Pack Troubleshooting](resource-pack-troubleshooting.md). If the issue started after updating Citron, check the [Version History](../../versions-and-builds/version-history.md) and test without personal additions.

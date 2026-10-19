@@ -1,3 +1,7 @@
+---
+description: Try practical fixes for low FPS and stutters before reporting an issue.
+---
+
 # Performance Tips
 
 Citron already includes performance optimisations, but your settings and hardware still affect how Minecraft runs. Try one change at a time so you can tell what actually helped.
@@ -20,3 +24,7 @@ If Citron performed well before an update, test the new build in a clean instanc
 {% endhint %}
 
 If performance is still poor, include your hardware, Citron build ID, video settings, and whether shaders or extra mods are enabled when reporting the problem.
+
+* [Performance](../features-and-options/performance.md) — what Citron aims to improve.
+* [Troubleshooting](../help/troubleshooting.md) — work through broader problems.
+* [Report an Issue](../help/report-an-issue.md) — if the problem remains in a clean setup.

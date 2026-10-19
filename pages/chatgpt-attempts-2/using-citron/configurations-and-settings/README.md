@@ -1,3 +1,7 @@
+---
+description: Understand Citron's default settings and what to check after an update.
+---
+
 # Configurations and Settings
 
 Citron ships with selected configurations intended to make its included mods work well together. Defaults may change between builds as mods and compatibility requirements change.

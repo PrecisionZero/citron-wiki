@@ -123,7 +123,6 @@
     * [Foundation](chatgpt-attempts-2/about-citron/foundation.md)
     * [Creator](chatgpt-attempts-2/about-citron/creator.md)
     * [Credits and Acknowledgements](chatgpt-attempts-2/about-citron/credits-and-acknowledgements.md)
-    * [Development Cycle](chatgpt-attempts-2/about-citron/development-cycle.md)
     * [License](chatgpt-attempts-2/about-citron/license.md)
     * [Accessibility and Language](chatgpt-attempts-2/about-citron/accessibility-and-language.md)
   * [Disclaimers](chatgpt-attempts-2/disclaimers.md)
