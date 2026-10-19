@@ -1,12 +1,13 @@
 ---
 description: Back up your worlds and personal files before updating or removing Citron.
+icon: floppy-disk
 ---
 
-# Backups and Uninstall
+# Backups
 
 Before updating Citron, switching Minecraft versions, or removing an instance, copy the files you want to keep **somewhere outside the instance folder**. If your only backup is inside the instance, deleting it may delete the backup too.
 
-## What should I back up?
+## What should you back up?
 
 | File or folder  | Contains                               |
 | --------------- | -------------------------------------- |
@@ -42,5 +43,5 @@ Once Citron is available on CurseForge:
 
 Install Citron again, launch it once, and then copy your worlds and personal files into the new instance. Restore configuration files selectively—an old config may not work with a newer version of a mod.
 
-* [Updating Citron](updating-citron.md) — review the steps before changing versions.
-* [Installation](../../installation/) — install a fresh instance if you need to start over.
+* [Updating Citron](getting-started/updating-citron.md) — review the steps before changing versions.
+* [Installation](installation/) — install a fresh instance if you need to start over.

@@ -22,7 +22,7 @@ An update may change defaults or replace configuration files. Check the relevant
 
 ## Where can I find what changed in a build?
 
-Check the [Citron Versions](../../getting-started/versions/index.md) section. Features and configurations may change between development builds.
+Check the [Citron Versions](../../getting-started-1/versions/index.md) section. Features and configurations may change between development builds.
 
 ## Can I use Citron on multiplayer servers?
 

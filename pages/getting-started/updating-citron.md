@@ -37,5 +37,5 @@ Open the game and check your controls, video settings, and any custom configurat
 
 If the new build has a problem, try launching it without extra mods, shaders, or resource packs before troubleshooting further.
 
-* [Backups and Uninstall](backups-and-uninstall.md) — keep a copy of your worlds and personal files.
-* [Troubleshooting](../help/troubleshooting.md) — if the updated instance won't launch or behaves differently.
+* [Backups and Uninstall](../backups.md) — keep a copy of your worlds and personal files.
+* [Troubleshooting](../chatgpt-attempts-2/help/troubleshooting.md) — if the updated instance won't launch or behaves differently.

@@ -15,4 +15,4 @@ Citron's development identifiers use the format `1.0.0-dev.N+mcVERSION.fabric`.
 
 Original build IDs are retained in the development records for traceability. Development builds can change more frequently than stable releases, so do not assume that a development build is equivalent to a final release.
 
-For recorded changes, see the [Citron development history](https://github.com/PrecisionZero/citron/blob/main/Developer/Development_stage.md) and the wiki's [Citron Versions](../../getting-started/versions/index.md) section.
+For recorded changes, see the [Citron development history](https://github.com/PrecisionZero/citron/blob/main/Developer/Development_stage.md) and the wiki's [Citron Versions](../../getting-started-1/versions/index.md) section.

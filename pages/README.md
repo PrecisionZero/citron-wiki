@@ -4,13 +4,7 @@
 
 Here you will find the solution to most of the problems you may face, along with information about Citron.
 
-### **Quick Links**
-
-* About us
-* Installation and updating
-* Citron versions
-* License
-* Support
+I suggest you start off by visiting [index.md](getting-started-1/index.md "mention")
 
 #### Navigation
 

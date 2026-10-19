@@ -15,4 +15,4 @@ Actual results depend on hardware, Minecraft version, world, video settings, and
 
 Use the same world, Minecraft version, render distance, and video settings. Test without shaders or extra mods first, let the world load before measuring, and repeat the test. Note your hardware and whether the issue happens in a clean Citron instance.
 
-For a particular build, refer to [Citron Versions](../../../getting-started/versions/index.md).
+For a particular build, refer to [Citron Versions](../../../getting-started-1/versions/index.md).

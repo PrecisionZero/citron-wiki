@@ -9,7 +9,7 @@ Temporary drafts for Citron's wiki, organised around practical tasks in the styl
 * [First Launch](getting-started/first-launch.md) — launch Citron and check the basics.
 * Updating Citron — update safely through your launcher.
 * Backups and Worlds — protect worlds and personal files.
-* [Disclaimers](../index/disclaimers.md) — read before using Citron.
+* [Disclaimers](../legal/disclaimers.md) — read before using Citron.
 
 ## Features and options
 
