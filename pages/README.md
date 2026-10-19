@@ -1,10 +1,10 @@
 # Citron Wiki
 
-### Welcome to the Citron Wiki!
+## Welcome to the Citron Wiki!
 
 Here you will find the solution to most of the problems you may face, along with information about Citron.
 
-I suggest you start off by visiting [index.md](getting-started-1/index.md "mention")
+I suggest you start off by visiting [getting-started](getting-started/ "mention").
 
 #### Navigation
 
