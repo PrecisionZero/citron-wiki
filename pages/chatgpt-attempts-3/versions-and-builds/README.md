@@ -1,12 +1,12 @@
 ---
-description: Check compatibility and review the changes recorded during development.
+description: Check the supported Minecraft version and review each build's feature changes.
 icon: book-open
 ---
 
 # Versions and Builds
 
-Citron is still in development. Check the Minecraft version and loader for the exact build you intend to download, then use the development history for recorded changes.
+Each version has its own page. Rather than repeating a mod list, the page records the features added or changed and links to the feature guides. The feature guide then records the project providing that behaviour.
 
-## Browse version information
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-shield-halved">:shield-halved:</i></td><td><strong>Version Support</strong><br>Check Minecraft version and loader for the file you're installing.</td><td><a href="version-support.md">version-support.md</a></td></tr><tr><td><i class="fa-clock-rotate-left">:clock-rotate-left:</i></td><td><strong>Version History</strong><br>Browse individual build records and their feature changes.</td><td><a href="version-history/">version-history</a></td></tr></tbody></table>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-shield-halved">:shield-halved:</i></td><td><strong>Version Support</strong><br>Check Minecraft version and loader for a specific build.</td><td><a href="version-support.md">version-support.md</a></td></tr><tr><td><i class="fa-clock-rotate-left">:clock-rotate-left:</i></td><td><strong>Development History</strong><br>Review the main recorded changes across development builds.</td><td><a href="development-history.md">development-history.md</a></td></tr></tbody></table>
+The records currently available here cover development builds `1.0.0-dev.1` to `1.0.0-dev.8`. Add future releases using the same structure and keep the feature pages up to date when behaviour or providers change.

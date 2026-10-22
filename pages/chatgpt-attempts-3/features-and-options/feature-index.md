@@ -1,47 +1,18 @@
 ---
-description: Browse Citron's recorded features by what they do, not by mod count.
+description: Browse Citron's documented features by what they do.
 icon: list-check
 ---
 
 # Feature Index
 
-Citron focuses on useful changes to everyday Minecraft. This index lists features recorded during development; it is not a guarantee that every entry is present in every future build.
+Features are the main reference in this wiki. A feature page explains what the player gets, how to use it, which project provides it, and when it was recorded in Citron.
 
-## Quality of life
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-box">:box:</i></td><td><strong>Gameplay and Inventory</strong><br>Features for inventory, item information, and controls.</td><td><a href="gameplay-and-inventory/">gameplay-and-inventory</a></td></tr><tr><td><i class="fa-desktop">:desktop:</i></td><td><strong>HUD and Information</strong><br>Features that display useful information while playing.</td><td><a href="hud-and-information/">hud-and-information</a></td></tr><tr><td><i class="fa-palette">:palette:</i></td><td><strong>Visuals and Rendering</strong><br>Lighting, resource packs, shaders, and visual options.</td><td><a href="visuals-and-rendering/">visuals-and-rendering</a></td></tr><tr><td><i class="fa-window-maximize">:window-maximize:</i></td><td><strong>Menus and Navigation</strong><br>The custom menu, menu switching, and button placement.</td><td><a href="menus-and-navigation/">menus-and-navigation</a></td></tr><tr><td><i class="fa-gauge-high">:gauge-high:</i></td><td><strong>Performance and Optimisation</strong><br>The combined optimisation foundation rather than a single mod.</td><td><a href="performance-and-optimisation/">performance-and-optimisation</a></td></tr></tbody></table>
 
-| Feature                | What it does                                         | Project recorded as providing it                                  |
-| ---------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
-| Zoom                   | Zoom in on distant details.                          | [Zoomify](https://modrinth.com/mod/zoomify)                       |
-| Shulker box previews   | Preview shulker-box contents.                        | [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) |
-| Food information       | Show additional hunger and saturation information.   | [AppleSkin](https://modrinth.com/mod/appleskin)                   |
-| Status effect timers   | Show remaining effect duration.                      | [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer) |
-| Inventory handling     | Add mouse actions for moving items.                  | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)             |
-| Dynamic lighting       | Light nearby areas with supported items or entities. | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)   |
-| Durability information | Show durability details in tooltips.                 | [Durability Plus](https://modrinth.com/mod/durability-plus)       |
-| Keybind search         | Search the Controls menu.                            | [Controlling](https://modrinth.com/mod/controlling)               |
+## How this is organised
 
-## Interface and visuals
+* **Feature pages** describe the player-facing behaviour.
+* **Version pages** link to features added or changed in that build.
+* **Provider projects** are recorded on feature pages as implementation details. If the underlying mod changes, the feature page can be updated without changing what the feature is called.
 
-| Feature                  | What it does                                                  | Project recorded as providing it                           |
-| ------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------- |
-| Debug screen layout      | Make the F3 screen easier to read.                            | [BetterF3](https://modrinth.com/mod/betterf3)              |
-| Player list improvements | Add list conveniences such as scrolling and ping information. | [Better Tab](https://modrinth.com/project/bettertab)       |
-| Armor HUD                | Display armor and durability information.                     | [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud) |
-| Visual comfort options   | Adjust visual details such as overlays and fog.               | [BactroMod](https://modrinth.com/mod/bactromod)            |
-| Extra video options      | Expose more animation, particle, and rendering controls.      | [Sodium Extra](https://modrinth.com/mod/sodium-extra)      |
-| Connected textures       | Support connected textures in compatible packs.               | [Continuity](https://modrinth.com/mod/continuity)          |
-
-## Performance and menus
-
-Citron is built on Adrenaline's performance foundation. The recorded development history also includes performance-related projects and a custom main menu built with [FancyMenu](https://modrinth.com/mod/fancymenu).
-
-{% hint style="info" %}
-This index is based on the development record, not a live scan of the latest downloadable file. Check the exact build you're using if a feature is missing.
-{% endhint %}
-
-For a list of projects recorded during development, see **Included Mods**.
-
-## Related guides
-
-* [Main Menu and Options](main-menu-and-options.md)
-* [Included Mods](included-mods.md)
+The development log records what was added during development; it is not a guarantee that every feature remains in every downloadable build.

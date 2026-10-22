@@ -32,4 +32,4 @@ Change one or two things at a time, test the game, and keep track of what helped
 ## Related guides
 
 * [Performance Tips](performance-tips.md)
-* [Main Menu and Options](../features-and-options/main-menu-and-options.md)
+* [Main Menu and Options](../features-and-options/menus-and-navigation/main-menu-and-options.md)

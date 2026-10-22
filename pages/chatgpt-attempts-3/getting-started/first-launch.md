@@ -37,5 +37,5 @@ After the base pack is working, add any extra mods, resource packs, or shaders o
 
 ## Related guides
 
-* [Main Menu and Options](../features-and-options/main-menu-and-options.md)
+* [Main Menu and Options](../features-and-options/menus-and-navigation/main-menu-and-options.md)
 * [Settings and Memory](../using-citron/settings-and-memory.md)
