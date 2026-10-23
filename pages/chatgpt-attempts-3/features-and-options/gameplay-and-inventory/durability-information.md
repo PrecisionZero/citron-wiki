@@ -5,20 +5,12 @@ icon: book-open
 
 # Durability Information
 
-Durability information makes it easier to check how much use an item has left without relying only on its visual damage state.
+Check item durability from tooltips.
 
-## Where to find it
+## Provided by
 
-Hover over a supported item to inspect its tooltip. The exact information depends on the provider's version and configuration.
+[Durability Plus](https://modrinth.com/mod/durability-plus)
 
-## Provider
+## Versions
 
-The development record associates this feature with [Durability Plus](https://modrinth.com/mod/durability-plus).
-
-## Version record
-
-First recorded in **1.0.0-dev.1**.
-
-## Recorded builds
-
-* [1.0.0-dev.1](../../versions-and-builds/version-history/1.0.0-dev.1.md)
+[dev.1](../../versions-and-builds/version-history/1.0.0-dev.1.md)–[dev.8](../../versions-and-builds/version-history/1.0.0-dev.8.md)

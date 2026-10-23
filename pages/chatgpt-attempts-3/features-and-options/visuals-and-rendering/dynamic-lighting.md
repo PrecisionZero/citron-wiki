@@ -5,20 +5,12 @@ icon: lightbulb
 
 # Dynamic Lighting
 
-Dynamic lighting allows supported items or entities to illuminate nearby surroundings while held or present.
+Light nearby areas using supported items and entities.
 
-## How to use it
+## Provided by
 
-Try a supported light source in a suitably dark area. Performance and behaviour can vary with settings and the Minecraft version.
+[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 
-## Provider
+## Versions
 
-The development record associates this feature with [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights).
-
-## Version record
-
-First recorded in **1.0.0-dev.3**.
-
-## Recorded builds
-
-* [1.0.0-dev.3](../../versions-and-builds/version-history/1.0.0-dev.3.md)
+[dev.3](../../versions-and-builds/version-history/1.0.0-dev.3.md)–[dev.8](../../versions-and-builds/version-history/1.0.0-dev.8.md)

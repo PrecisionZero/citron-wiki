@@ -5,20 +5,12 @@ icon: book-open
 
 # Extra Video Options
 
-Extra video options expose more controls than the standard Minecraft video settings. Available toggles depend on the provider version.
+Access additional animation, particle, and visual settings.
 
-## How to use it
+## Provided by
 
-Open **Options → Video Settings** and look for the extra settings. Change one option at a time if you're troubleshooting a visual or performance issue.
+[Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
-## Provider
+## Versions
 
-The development record associates this feature group with [Sodium Extra](https://modrinth.com/mod/sodium-extra).
-
-## Version record
-
-First recorded in **1.0.0-dev.1**.
-
-## Recorded builds
-
-* [1.0.0-dev.1](../../versions-and-builds/version-history/1.0.0-dev.1.md)
+[dev.1](../../versions-and-builds/version-history/1.0.0-dev.1.md)–[dev.8](../../versions-and-builds/version-history/1.0.0-dev.8.md)
