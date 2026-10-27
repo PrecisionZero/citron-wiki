@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ChatGPT Attempts
 
 Temporary drafts for Citron's wiki, organised around practical tasks in the style of the Fabulously Optimized documentation. Review these pages, then move them into the final navigation when you're happy with the content.

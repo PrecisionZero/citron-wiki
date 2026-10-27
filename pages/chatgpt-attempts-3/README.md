@@ -1,5 +1,6 @@
 ---
 description: A practical guide to installing, using, and understanding Citron.
+hidden: true
 icon: book-open
 ---
 
